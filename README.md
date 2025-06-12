@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓: Graduado em Análise e Desenvolvimento de Sistemas<br>📚 Aprendendo arquitetura de microserviços com Java(Quarkus e Spring)</p>
+<p align="left">🎓: Graduado em Análise e Desenvolvimento de Sistemas<br>📚 Aprendendo arquitetura de microserviços com Java(Quarkus,Spring e Docker)</p>
 
 ###
 
@@ -20,6 +20,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" height="40" alt="quarkus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
