@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente atuando como Residente Técnico(desenvolvimento) na Agência de Defesa Agropecuária do Paraná.</p>
+<p align="left">Atualmente atuando como Desenvolvedor de Sistemas na Agência de Defesa Agropecuária do Paraná.</p>
 
 ###
 
