@@ -48,8 +48,11 @@
 
 ###
 
-<div align="center">
- [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-dib&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)graph"  />
+<div align="left">
 </div>
+
+###
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-dib&show_icons=true&theme=dracula)
 
 ###
