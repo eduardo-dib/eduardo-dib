@@ -51,8 +51,12 @@
 
 ###
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-dib&show_icons=true&theme=dracula)
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-dib)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardo-dib&show_icons=true&theme=dracula" alt="Eduardo's GitHub stats" width="400"/>
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-dib&layout=compact&theme=dracula" alt="Top Languages" width="250"/>
+</div>
 
 ###
