@@ -53,10 +53,10 @@
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardo-dib&show_icons=true&theme=dracula" alt="Eduardo's GitHub stats" width="400"/>
+ 
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-dib&layout=compact&theme=dracula" alt="Top Languages" width="250"/>
+  <img src="https://ghstats.dev/api/langs?username=eduardo-dib" alt="Top Languages" />
 </div>
 
 ###
