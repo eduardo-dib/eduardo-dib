@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">🎓: Graduado em Análise e Desenvolvimento de Sistemas<br>📚 Aprendendo arquitetura de microsserviços com Java (Quarkus e Docker)<br>🚀 Projeto atual: <a href="https://vigiaconcursohomolog.duckdns.org/">VigiaConcursos</a> — monitor de concursos públicos (Java 21, Quarkus, Vue.js 3, PostgreSQL, Docker, Oracle Cloud)<br>📫 Contato: <a href="mailto:cardozoedudib@gmail.com">cardozoedudib@gmail.com</a></p>
+<p align="left">🎓: Graduado em Análise e Desenvolvimento de Sistemas<br>🚀 Projeto atual: <a href="https://vigiaconcursohomolog.duckdns.org/">VigiaConcursos</a> — monitor de concursos públicos (Java 21, Quarkus, Vue.js 3, PostgreSQL, Docker, Oracle Cloud)<br>📫 Contato: <a href="mailto:cardozoedudib@gmail.com">cardozoedudib@gmail.com</a></p>
 
 <h2 align="left">Eu trabalho com:</h2>
 
