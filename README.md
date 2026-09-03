@@ -1,23 +1,13 @@
 <h1 align="left">Olá! 👋 Sou o Eduardo Dib</h1>
-
 ###
-
 <p align="left">Atualmente atuando como Desenvolvedor de Sistemas na Agência de Defesa Agropecuária do Paraná.</p>
-
 ###
-
 <h2 align="left">About me</h2>
-
 ###
-
-<p align="left">🎓: Graduado em Análise e Desenvolvimento de Sistemas<br>📚 Aprendendo arquitetura de microserviços com Java(Quarkus,Spring e Docker)</p>
-
+<p align="left">🎓: Graduado em Análise e Desenvolvimento de Sistemas<br>📚 Aprendendo arquitetura de microsserviços com Java (Quarkus e Docker)<br>🚀 Projeto atual: <a href="https://github.com/eduardo-dib/monitor-concurso">VigiaConcursos</a> — monitor de concursos públicos (Java 21, Quarkus, Vue.js 3, PostgreSQL, Docker, Oracle Cloud)<br>📫 Contato: <a href="mailto:cardozoedudib@gmail.com">cardozoedudib@gmail.com</a></p>
 ###
-
 <h2 align="left">Eu trabalho com:</h2>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" height="40" alt="quarkus logo"  />
   <img width="12" />
@@ -40,23 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
 ###
-
 <div align="left">
 </div>
-
 ###
-
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-
  
-
-
   <img src="https://ghstats.dev/api/langs?username=eduardo-dib" alt="Top Languages" />
 </div>
-
-###
